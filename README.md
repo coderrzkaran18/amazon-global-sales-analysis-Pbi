@@ -9,19 +9,19 @@ The dashboard focuses on making business data easy to understand through clean v
 
 ## What this dashboard shows
 
--> Year-wise sales performance
--> Regional and market-level comparison
--> Product profitability insights
--> Top and bottom performing products
--> Customer-level profit contribution
--> Key metrics such as total sales, units sold, and returns
+* Year-wise sales performance
+* Regional and market-level comparison
+* Product profitability insights
+* Top and bottom performing products
+* Customer-level profit contribution
+* Key metrics such as total sales, units sold, and returns
 
 ## Tools Used
 
--> Power BI Desktop
--> Microsoft Excel
--> Data cleaning and transformation
--> Data visualization techniques
+* Power BI Desktop
+* Microsoft Excel
+* Data cleaning and transformation
+* Data visualization techniques
 
 ## Dashboard Preview
 
@@ -34,22 +34,25 @@ Different visual elements such as KPI cards, maps, bar charts, and filters were 
 A consistent theme and layout were applied to maintain clarity and readability.
 
 ## Files Included
-**amazon-sales-powerbi-dashboard**
- -> Assets
-         -> amazon_logo.png
-         -> theme.json
- -> global_superstore.xlsx
- -> pbi_dashboard.png
- -> Project1_powerBI.pbix
- -> README.md
- 
+
+```
+amazon-sales-powerbi-dashboard
+ ┣ Assets
+ ┃ ┣ Amazon_logo.png
+ ┃ ┣ theme.json
+ ┣ global_superstore.xlsx
+ ┣ pbi_dashboard.png
+ ┣ Project1powerBi.pbix
+ ┣ README.md
+```
+
 ## About this project
 
 This dashboard was created as part of my data analytics learning journey and portfolio development.
 It reflects my understanding of data visualization, dashboard design, and extracting insights from structured datasets using Power BI.
 
 ## Author
+
 Karan Kumar Chauhan
 B.Tech — Computer Science Engineering (Data Science)
-
 
