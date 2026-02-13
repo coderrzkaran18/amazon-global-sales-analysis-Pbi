@@ -25,7 +25,7 @@ The dashboard focuses on making business data easy to understand through clean v
 
 ## Dashboard Preview
 
-![Dashboard](dashboard.png)
+![Dashboard](amazon-sales-powerbi-dashboard/pbi_dashboard.png.png)
 
 ## Approach
 
